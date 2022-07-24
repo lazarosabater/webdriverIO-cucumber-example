@@ -1,0 +1,14 @@
+{
+  "workbench.colorTheme": "Default Light+",
+  "editor.quickSuggestions": {
+      "comments": "on",
+      "strings": "on",
+      "other": "on"
+  },
+  "window.zoomLevel": 0,
+  "gherkin-autocomplete.featuresPath": "src/features",
+  "cucumberautocomplete.steps": [
+      "src/step-definitions/*.js",
+  ],
+  "cucumberautocomplete.syncfeatures": "src/features/*feature",
+  } 
